@@ -1,0 +1,122 @@
+/* body {
+    background: url('https://images.unsplash.com/photo-1505685296765-3a2736de412f') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+.register-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px 50px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.register-container:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+.form-control {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: #ff7e67;
+}
+.btn-primary {
+    background-color: #ff7e67;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+.btn-primary:hover {
+    background-color: #ff5a3c;
+    transform: scale(1.05);
+}
+h2 {
+    color: #333333;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+label {
+    font-weight: 600;
+    color: #666666;
+}
+.text-center a {
+    color: #ff7e67;
+    text-decoration: none;
+}
+.text-center a:hover {
+    text-decoration: underline;
+} */
+
+
+body {
+    background: url('https://images.unsplash.com/photo-1505685296765-3a2736de412f') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
+.register-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px 50px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 100%;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.register-container:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+}
+.form-control {
+    border-radius: 50px;
+    padding: 10px 20px;
+}
+.form-control:focus {
+    box-shadow: none;
+    border-color: #ff7e67;
+}
+.btn-primary {
+    background-color: #ff7e67;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, transform 0.3s;
+}
+.btn-primary:hover {
+    background-color: #ff5a3c;
+    transform: scale(1.05);
+}
+h2 {
+    color: #333333;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+label {
+    font-weight: 600;
+    color: #666666;
+}
+.text-center a {
+    color: #ff7e67;
+    text-decoration: none;
+}
+.text-center a:hover {
+    text-decoration: underline;
+}
